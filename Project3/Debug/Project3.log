@@ -1,0 +1,53 @@
+﻿  Source.cpp
+C:\opencv\opencv\build\include\opencv2/core/mat.hpp(2586): warning C4819: 檔案含有無法在目前字碼頁 (950) 中表示的字元。請以 Unicode 格式儲存檔案以防止資料遺失
+C:\opencv\opencv\build\include\opencv2/core/persistence.hpp : warning C4819: 檔案含有無法在目前字碼頁 (950) 中表示的字元。請以 Unicode 格式儲存檔案以防止資料遺失
+C:\opencv\opencv\build\include\opencv2/core/utility.hpp : warning C4819: 檔案含有無法在目前字碼頁 (950) 中表示的字元。請以 Unicode 格式儲存檔案以防止資料遺失
+C:\opencv\opencv\build\include\opencv2/core/utility.hpp : warning C4819: 檔案含有無法在目前字碼頁 (950) 中表示的字元。請以 Unicode 格式儲存檔案以防止資料遺失
+C:\opencv\opencv\build\include\opencv2/imgproc.hpp : warning C4819: 檔案含有無法在目前字碼頁 (950) 中表示的字元。請以 Unicode 格式儲存檔案以防止資料遺失
+C:\opencv\opencv\build\include\opencv2/imgproc.hpp(592): warning C4819: 檔案含有無法在目前字碼頁 (950) 中表示的字元。請以 Unicode 格式儲存檔案以防止資料遺失
+Source.cpp(158): warning C4018: '<': signed/unsigned 不相符
+Source.cpp(162): warning C4244: '=': 將 'double' 轉換為 'float'，由於類型不同，可能導致資料遺失
+Source.cpp(166): warning C4018: '<': signed/unsigned 不相符
+Source.cpp(176): warning C4018: '<': signed/unsigned 不相符
+Source.cpp(243): warning C4018: '<': signed/unsigned 不相符
+Source.cpp(247): warning C4244: '=': 將 'double' 轉換為 'float'，由於類型不同，可能導致資料遺失
+Source.cpp(251): warning C4018: '<': signed/unsigned 不相符
+Source.cpp(261): warning C4018: '<': signed/unsigned 不相符
+Source.cpp(524): warning C4244: '引數': 將 'float' 轉換為 'int'，由於類型不同，可能導致資料遺失
+Source.cpp(580): warning C4018: '<': signed/unsigned 不相符
+Source.cpp(669): warning C4244: '引數': 將 'int' 轉換為 'float'，由於類型不同，可能導致資料遺失
+Source.cpp(670): warning C4244: '引數': 將 'int' 轉換為 'float'，由於類型不同，可能導致資料遺失
+Source.cpp(673): warning C4244: '引數': 將 'double' 轉換為 'float'，由於類型不同，可能導致資料遺失
+Source.cpp(674): warning C4244: '引數': 將 'double' 轉換為 'float'，由於類型不同，可能導致資料遺失
+Source.cpp(675): warning C4244: '引數': 將 'double' 轉換為 'float'，由於類型不同，可能導致資料遺失
+Source.cpp(785): warning C4018: '<': signed/unsigned 不相符
+Source.cpp(861): warning C4018: '<': signed/unsigned 不相符
+Source.cpp(892): warning C4018: '<': signed/unsigned 不相符
+Source.cpp(1049): warning C4018: '<': signed/unsigned 不相符
+Source.cpp(1053): warning C4244: '=': 將 'double' 轉換為 'float'，由於類型不同，可能導致資料遺失
+Source.cpp(1057): warning C4018: '<': signed/unsigned 不相符
+Source.cpp(1067): warning C4018: '<': signed/unsigned 不相符
+Source.cpp(1122): warning C4551: 函式呼叫遺漏引數清單
+Source.cpp(730): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.10240.0\ucrt\string.h(119): note: 請參閱 'strcpy' 的宣告
+Source.cpp(731): warning C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.10240.0\ucrt\string.h(90): note: 請參閱 'strcat' 的宣告
+Source.cpp(732): warning C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.10240.0\ucrt\string.h(90): note: 請參閱 'strcat' 的宣告
+c:\opencv\opencv\build\include\opencv2\core\cvstd.hpp(596): warning C4793: 'cv::String::String': 函式會編譯成機器碼:
+  	找到 Managed 程式碼中不支援的內建
+c:\opencv\opencv\build\include\opencv2\core\mat.inl.hpp(413): warning C4793: 'cv::Mat::Mat': 函式會編譯成機器碼:
+  	找到 Managed 程式碼中不支援的內建
+c:\opencv\opencv\build\include\opencv2\core\mat.inl.hpp(703): warning C4793: 'cv::Mat::release': 函式會編譯成機器碼:
+  	找到 Managed 程式碼中不支援的內建
+c:\opencv\opencv\build\include\opencv2\core\mat.inl.hpp(1929): warning C4793: 'cv::SparseMat::addref': 函式會編譯成機器碼:
+  	找到 Managed 程式碼中不支援的內建
+c:\opencv\opencv\build\include\opencv2\core\mat.inl.hpp(3530): warning C4793: 'cv::UMat::addref': 函式會編譯成機器碼:
+  	找到 Managed 程式碼中不支援的內建
+c:\opencv\opencv\build\include\opencv2\core\ptr.inl.hpp(67): warning C4793: 'cv::detail::PtrOwner::incRef': 函式會編譯成機器碼:
+  	找到 Managed 程式碼中不支援的內建
+c:\opencv\opencv\build\include\opencv2\core\ptr.inl.hpp(72): warning C4793: 'cv::detail::PtrOwner::decRef': 函式會編譯成機器碼:
+  	找到 Managed 程式碼中不支援的內建
+  .NETFramework,Version=v4.5.2.AssemblyAttributes.cpp
+  Source.obj : Managed 程式碼存在時不支援 /DEBUG:FASTLINK; 正在以 /DEBUG:FULL 重新啟動連結
+opencv_world320d.lib(opencv_world320d.dll) : fatal error LNK1112: 模組電腦類型 'x64' 與目標電腦類型 'X86' 衝突
